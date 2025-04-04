@@ -1,3 +1,3 @@
 # AML eLearning Module 1
 
-Step-by-step AML module built with React + Tailwind + Lottie.
+This is a Vite-based React app ready for Vercel deployment.
